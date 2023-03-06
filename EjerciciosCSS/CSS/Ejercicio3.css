@@ -6,9 +6,10 @@ ul,ul li{
     list-style:none;
 }
 
-h1{
+#encabezado{
     text-align: center;
 }
+
 h1,h2,h3,p,form{
     margin:0;
     padding:0;
